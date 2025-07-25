@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\bin\Debug\net8.0\Idades.exe
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\bin\Debug\net8.0\Idades.deps.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\bin\Debug\net8.0\Idades.runtimeconfig.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\bin\Debug\net8.0\Idades.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\bin\Debug\net8.0\Idades.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\obj\Debug\net8.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\obj\Debug\net8.0\Idades.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\obj\Debug\net8.0\Idades.AssemblyInfo.cs
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\obj\Debug\net8.0\Idades.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\obj\Debug\net8.0\Idades.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\obj\Debug\net8.0\refint\Idades.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\obj\Debug\net8.0\Idades.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\obj\Debug\net8.0\Idades.genruntimeconfig.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Idades\Idades\obj\Debug\net8.0\ref\Idades.dll

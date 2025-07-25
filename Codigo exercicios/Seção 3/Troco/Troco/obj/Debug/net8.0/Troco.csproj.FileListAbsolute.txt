@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\bin\Debug\net8.0\Troco.exe
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\bin\Debug\net8.0\Troco.deps.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\bin\Debug\net8.0\Troco.runtimeconfig.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\bin\Debug\net8.0\Troco.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\bin\Debug\net8.0\Troco.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\obj\Debug\net8.0\Troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\obj\Debug\net8.0\Troco.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\obj\Debug\net8.0\Troco.AssemblyInfo.cs
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\obj\Debug\net8.0\Troco.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\obj\Debug\net8.0\Troco.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\obj\Debug\net8.0\refint\Troco.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\obj\Debug\net8.0\Troco.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\obj\Debug\net8.0\Troco.genruntimeconfig.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Troco\Troco\obj\Debug\net8.0\ref\Troco.dll

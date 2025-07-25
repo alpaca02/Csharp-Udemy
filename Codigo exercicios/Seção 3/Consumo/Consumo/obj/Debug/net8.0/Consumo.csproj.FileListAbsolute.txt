@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\bin\Debug\net8.0\Consumo.exe
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\bin\Debug\net8.0\Consumo.deps.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\bin\Debug\net8.0\Consumo.runtimeconfig.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\bin\Debug\net8.0\Consumo.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\bin\Debug\net8.0\Consumo.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\obj\Debug\net8.0\Consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\obj\Debug\net8.0\Consumo.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\obj\Debug\net8.0\Consumo.AssemblyInfo.cs
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\obj\Debug\net8.0\Consumo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\obj\Debug\net8.0\Consumo.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\obj\Debug\net8.0\refint\Consumo.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\obj\Debug\net8.0\Consumo.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\obj\Debug\net8.0\Consumo.genruntimeconfig.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Consumo\Consumo\obj\Debug\net8.0\ref\Consumo.dll

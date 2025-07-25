@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\Documents\\Udemy\\Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o - O Curso COMPLETO\\Csharp\\Codigo exercicios\\Se\u00E7\u00E3o 3\\Troco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7215F6E-C5E8-4999-B019-729D5154FD8D}|Troco\\Troco.csproj|c:\\users\\eduar\\documents\\udemy\\algoritmos e l\u00F3gica de programa\u00E7\u00E3o - o curso completo\\csharp\\codigo exercicios\\se\u00E7\u00E3o 3\\troco\\troco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7215F6E-C5E8-4999-B019-729D5154FD8D}|Troco\\Troco.csproj|solutionrelative:troco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\Udemy\\Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o - O Curso COMPLETO\\Csharp\\Codigo exercicios\\Se\u00E7\u00E3o 3\\Troco\\Troco\\Program.cs",
+              "RelativeDocumentMoniker": "Troco\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\Udemy\\Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o - O Curso COMPLETO\\Csharp\\Codigo exercicios\\Se\u00E7\u00E3o 3\\Troco\\Troco\\Program.cs*",
+              "RelativeToolTip": "Troco\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:59:54.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\bin\Debug\net8.0\Circulo.exe
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\bin\Debug\net8.0\Circulo.deps.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\bin\Debug\net8.0\Circulo.runtimeconfig.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\bin\Debug\net8.0\Circulo.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\bin\Debug\net8.0\Circulo.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\obj\Debug\net8.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\obj\Debug\net8.0\Circulo.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\obj\Debug\net8.0\Circulo.AssemblyInfo.cs
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\obj\Debug\net8.0\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\obj\Debug\net8.0\Circulo.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\obj\Debug\net8.0\refint\Circulo.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\obj\Debug\net8.0\Circulo.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\obj\Debug\net8.0\Circulo.genruntimeconfig.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Circulo\Circulo\obj\Debug\net8.0\ref\Circulo.dll

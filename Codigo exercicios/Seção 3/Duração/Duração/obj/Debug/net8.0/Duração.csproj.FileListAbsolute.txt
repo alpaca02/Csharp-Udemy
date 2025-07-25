@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\bin\Debug\net8.0\Duração.exe
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\bin\Debug\net8.0\Duração.deps.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\bin\Debug\net8.0\Duração.runtimeconfig.json
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\bin\Debug\net8.0\Duração.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\bin\Debug\net8.0\Duração.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\obj\Debug\net8.0\Duração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\obj\Debug\net8.0\Duração.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\obj\Debug\net8.0\Duração.AssemblyInfo.cs
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\obj\Debug\net8.0\Duração.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\obj\Debug\net8.0\Duração.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\obj\Debug\net8.0\refint\Duração.dll
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\obj\Debug\net8.0\Duração.pdb
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\obj\Debug\net8.0\Duração.genruntimeconfig.cache
+C:\Users\eduar\Documents\Udemy\Algoritmos e Lógica de Programação - O Curso COMPLETO\Csharp\Codigo exercicios\Seção 3\Duração\Duração\obj\Debug\net8.0\ref\Duração.dll

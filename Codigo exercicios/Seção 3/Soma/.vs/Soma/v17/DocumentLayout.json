@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\Documents\\Udemy\\Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o - O Curso COMPLETO\\Csharp\\Codigo exercicios\\Se\u00E7\u00E3o 3\\Soma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F62F12-A71A-4871-9F85-C6A825D7E9DC}|Soma\\Soma.csproj|c:\\users\\eduar\\documents\\udemy\\algoritmos e l\u00F3gica de programa\u00E7\u00E3o - o curso completo\\csharp\\codigo exercicios\\se\u00E7\u00E3o 3\\soma\\soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F62F12-A71A-4871-9F85-C6A825D7E9DC}|Soma\\Soma.csproj|solutionrelative:soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\Udemy\\Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o - O Curso COMPLETO\\Csharp\\Codigo exercicios\\Se\u00E7\u00E3o 3\\Soma\\Soma\\Program.cs",
+              "RelativeDocumentMoniker": "Soma\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\Udemy\\Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o - O Curso COMPLETO\\Csharp\\Codigo exercicios\\Se\u00E7\u00E3o 3\\Soma\\Soma\\Program.cs",
+              "RelativeToolTip": "Soma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:57:02.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
